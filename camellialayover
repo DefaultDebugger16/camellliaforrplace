@@ -1,0 +1,15 @@
+{
+  "contact": "https://discord.gg/RHuw3QQr",
+  "templates": [
+    {
+      "name": "Camellia Logo",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1132280154010423397/1132435057102045224/pixil-frame-0_3.png"
+      ],
+      "x": 0,
+      "y": 673
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
